@@ -12,3 +12,6 @@ public static ByteBuffer getDataFromURI(String uri) throws IOException {
     }
   
   }
+
+//had to find this online as I did not understand how to get information from outside sources.
+//the main java file would then display this information when the tests are run
